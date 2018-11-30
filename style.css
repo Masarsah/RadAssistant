@@ -1,0 +1,112 @@
+.body1{
+    background-color: #354e71;
+    
+    }
+    
+    .body2{
+        background-color :#354e71 ;
+        align-items: center;
+        }
+    
+    .body3{
+        background-color: #354e71;
+        margin: 0px;
+    }
+    
+    /* .body4{ */
+    .main{
+    
+        font-family: "Impact", sans-serif;
+        font-size: 30px;
+        text-align: center;
+        color: #f4f9f9;
+        margin: 0;
+        margin-top:160px;
+        /* position:absolute; */
+    }
+    
+    .Enter{
+        font-family: "Impact", sans-serif;
+        font-size: 20px;
+        text-align: center;
+        color:#f4f9f9;
+        /* margin: 0;
+        margin-top:100px; */
+    }
+    input{
+        text-align: center;
+        margin-top:300px;
+        margin: 0;
+        align-items: center;
+    }
+    /* #text2{
+        text-align: center;
+        margin-top:100px;
+        margin: 0;
+        align-items: center;
+    } */
+    
+    /* .submit{
+        margin: 0;
+        align-items: center;
+        background-color: aliceblue;
+        
+    } */
+    button  {
+        display: block;
+        width: 100px;
+        height: 10px ;
+        background: white;
+        padding: 10px;
+        text-align: center;
+        border-radius: 5px;
+        color: blue;
+        font-weight: bold;
+        margin: 30px ;
+        font-size: 10px;
+        align-items: center;
+    }
+    .ins {
+        overflow:scroll;
+       margin: 6px;
+       padding: 5px;
+       color: #f4f9f9
+    }
+    a {
+        text-decoration: none;
+        color: #354e71;
+        padding: 6px;
+    }
+    
+    
+    .link{
+    
+        text-align: center;
+        color: #f4f9f9;
+        align-items: center;
+        padding: 10;
+        background-color: #f4f9f9;
+        height: 30px;
+        font-size: 20px;
+        display:flex;
+    
+    
+        /* flex-direction: row-reverse;
+        flex-wrap: wrap;
+        justify-content: center;  */
+    
+    }
+    .link:hover{
+        background-color: aquamarine;
+    
+    }
+    
+    .patient-info {
+        background: rgba(255, 255, 255, .447) ;
+        border: 1px solid gray;
+        border-radius: 10px;
+        padding: 20px;
+        margin: 20px;
+    
+    
+    }
